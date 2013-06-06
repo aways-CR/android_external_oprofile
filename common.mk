@@ -53,5 +53,4 @@ HAVE_LIBBFD := true
 endif
 endif
 endif
-
 endif
